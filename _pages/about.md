@@ -43,7 +43,7 @@ diving into text prototype repair for VLM zero-shot classification.
 
 **Shunge Zou**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
 
-DANCE is a training-free test-time adaptation framework for VLMs that jointly redesigns cache maintenance and retrieval under distribution shift. It introduces diversity-attended dynamic caching to maintain representative class-wise prototypes, and asymmetric quantization as a unified retrieval primitive to stabilize visual-space similarity under streaming shift.  
+DANCE is a test-time adaptation framework for VLMs that jointly redesigns cache maintenance and retrieval under distribution shift. It introduces diversity-attended dynamic caching to maintain representative class-wise prototypes, and asymmetric quantization as a unified retrieval primitive to stabilize visual-space similarity under streaming shift.  
 </div>
 </div>
 
