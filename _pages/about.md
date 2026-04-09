@@ -26,6 +26,11 @@ redirect_from:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+- [DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models](https://openreview.net/forum?id=TT4hCRXY6y)  
+  **Shunge Zou**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo  
+  *ACL 2026 Findings*  
+  DANCE is a training-free test-time adaptation framework for VLMs that jointly redesigns cache maintenance and retrieval under distribution shift. It introduces diversity-attended dynamic caching to maintain representative class-wise prototypes, and asymmetric quantization as a unified retrieval primitive to stabilize visual-space similarity under streaming shift. 
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,7 +75,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 
 # 💻 Internships
 - *2025.05 - present*, Research Internship, [University of Wisconsin - Madison](https://www.wisc.edu/), USA.
-- *2025.05 - present*, Research Internship, [The Greater Bay Area University](The Greater Bay Area University), China.
+- *2025.09 - present*, Research Internship, [The Greater Bay Area University](The Greater Bay Area University), China.
 - *2025.03 - present*, Research Internship, [Sichuan University](https://en.scu.edu.cn/), China.
 
 
