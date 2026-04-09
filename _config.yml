@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuyang Song's Homepage"
-# description              : "Yuyang Song's homepage"
-repository               : "Yuyang-Song/Yuyang-Song.github.io"
+title                    : "Shunge Zou's Homepage"
+# description              : "Shunge Zou's homepage"
+repository               : "lingtingting123/lingtingting123.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Yuyang Song"
+  name             : "Shunge Zou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Incoming Ph.D. @ UT Austin"
+  bio              : "Undergraduate Student @ Sichuan University"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yuyangsong004@gmail.com"
+  email            : "zoushunge@stu.scu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Yuyang-Song"
+  # github           : "Yuyang-Song"
   google_plus      :
   keybase          :
   instagram        :
