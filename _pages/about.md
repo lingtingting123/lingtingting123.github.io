@@ -69,9 +69,11 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 <!-- <font color=red>Nationcal Scholarship</font> -->
 
 # 🎖 Honors and Awards
-<!- *2025.05 - present*, Research Internship, [University of Wisconsin - Madison](https://www.wisc.edu/), USA.
-- *2025.05 - present*, Research Internship, [The Greater Bay Area University](The Greater Bay Area University), China.
-- *2025.03 - present*, Research Internship, [Sichuan University](https://en.scu.edu.cn/), China.  -->
+<!-- - *2025.05*, First Prize, College Student Innovation Project.
+- *2023.11*, First Prize, China Undergraduate Mathematical Contest in Modeling.
+- *2023.10*, First-Class Scholarship, Sichuan University (Top 1%). 
+- *2023.08*, First Prize, China Undergraduate Internet of Things Design Competition. -->
+
 
 # 📖 Education
 <div class='school-list'>
@@ -89,9 +91,9 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-<!-- # - *2025.09 - now*, Research Internship, IQuest AI Lab, Ubiquant, China.
-- *2024.11 - 2025.07*, Research Assistant, [Purdue University](https://www.purdue.edu/), USA.
-- *2024.09 - 2025.07*, Research Assistant, [Sichuan University](https://en.scu.edu.cn/), China. -->
+<!- *2025.05 - present*, Research Internship, [University of Wisconsin - Madison](https://www.wisc.edu/), USA.
+- *2025.05 - present*, Research Internship, [The Greater Bay Area University](The Greater Bay Area University), China.
+- *2025.03 - present*, Research Internship, [Sichuan University](https://en.scu.edu.cn/), China.  -->
 
 <br>
 
