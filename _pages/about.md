@@ -26,10 +26,22 @@ redirect_from:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-- [DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models](https://openreview.net/forum?id=TT4hCRXY6y)  
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/your_paper_image.png' alt="paper preview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models](https://openreview.net/forum?id=TT4hCRXY6y)
+
+**Shunge Zou**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
+
+DANCE is a training-free test-time adaptation framework for VLMs that jointly redesigns cache maintenance and retrieval under distribution shift. It introduces diversity-attended dynamic caching to maintain representative class-wise prototypes, and asymmetric quantization as a unified retrieval primitive to stabilize visual-space similarity under streaming shift.  
+</div>
+</div>
+
+<!-- - [DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models](https://openreview.net/forum?id=TT4hCRXY6y)  
   **Shunge Zou**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo  
   *ACL 2026 Findings*  
-  DANCE is a training-free test-time adaptation framework for VLMs that jointly redesigns cache maintenance and retrieval under distribution shift. It introduces diversity-attended dynamic caching to maintain representative class-wise prototypes, and asymmetric quantization as a unified retrieval primitive to stabilize visual-space similarity under streaming shift. 
+  DANCE is a training-free test-time adaptation framework for VLMs that jointly redesigns cache maintenance and retrieval under distribution shift. It introduces diversity-attended dynamic caching to maintain representative class-wise prototypes, and asymmetric quantization as a unified retrieval primitive to stabilize visual-space similarity under streaming shift.  -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
