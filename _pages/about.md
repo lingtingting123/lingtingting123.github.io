@@ -114,7 +114,7 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2025.12*, National Scholarship, Ministry of Education, China.
 - *2024.12*, National Scholarship, Ministry of Education, China.
 - *2024.10*, First-Class Scholarship, Sichuan University (Top 1%).
-- *2024*, First Prize, China, Undergraduate Internet of Things Design Competition (Team Leader).
+- *2024*, First Prize, China, Undergraduate Internet of Things Design Competition.
 - *2024 & 2025*, Member, National-level College Student Innovation and Entrepreneurship Project (x2).
 
 
