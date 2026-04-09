@@ -74,6 +74,15 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2023.10*, First-Class Scholarship, Sichuan University (Top 1%). 
 - *2023.08*, First Prize, China Undergraduate Internet of Things Design Competition. -->
 
+# 📖 Education
+<div class='school-list'>
+<div class='school-item'>
+  <div class='school-logo'><img src='images/scu.png' alt="Sichuan University"></div>
+  <div class='school-text' markdown="1">
+  *2023.09 - present*, B.S. Candidate in Computer Science with Honor, Sichuan University
+  </div>
+</div>
+</div>
 
 
 <!-- # 💬 Invited Talks
