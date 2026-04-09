@@ -68,11 +68,10 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 
 <!-- <font color=red>Nationcal Scholarship</font> -->
 
-# 🎖 Honors and Awards
-<!-- - *2025.05*, First Prize, College Student Innovation Project.
-- *2023.11*, First Prize, China Undergraduate Mathematical Contest in Modeling.
-- *2023.10*, First-Class Scholarship, Sichuan University (Top 1%). 
-- *2023.08*, First Prize, China Undergraduate Internet of Things Design Competition. -->
+# 💻 Internships
+- *2025.05 - present*, Research Internship, [University of Wisconsin - Madison](https://www.wisc.edu/), USA.
+- *2025.05 - present*, Research Internship, [The Greater Bay Area University](The Greater Bay Area University), China.
+- *2025.03 - present*, Research Internship, [Sichuan University](https://en.scu.edu.cn/), China.
 
 
 # 📖 Education
@@ -85,15 +84,19 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 </div>
 </div>
 
+# 🎖 Honors and Awards
+- *2025.12*, National Scholarship, Ministry of Education, China.
+- *2024.12*, National Scholarship, Ministry of Education, China.
+- *2024.10*, First-Class Scholarship, Sichuan University (Top 1%).
+- *2024*, First Prize, China Undergraduate Internet of Things Design Competition (Team Leader).
+- *2024 & 2025*, Member, National-level College Student Innovation and Entrepreneurship Project (x2).
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-<!- *2025.05 - present*, Research Internship, [University of Wisconsin - Madison](https://www.wisc.edu/), USA.
-- *2025.05 - present*, Research Internship, [The Greater Bay Area University](The Greater Bay Area University), China.
-- *2025.03 - present*, Research Internship, [Sichuan University](https://en.scu.edu.cn/), China.  -->
+
 
 <br>
 
