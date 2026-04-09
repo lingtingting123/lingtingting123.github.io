@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, advised by Prof. [Mingjie Tang](https://merlintang.github.io/). Previously, he was a research intern at [Purdue University](https://www.purdue.edu/) under the supervision of Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). His research interest lies in **Efficient LLM Reasoning** and **System Optimization**.
+<!-- Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, advised by Prof. [Mingjie Tang](https://merlintang.github.io/). Previously, he was a research intern at [Purdue University](https://www.purdue.edu/) under the supervision of Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). His research interest lies in **Efficient LLM Reasoning** and **System Optimization**. -->
 
 
 
@@ -26,7 +26,7 @@ Yuyang Song is an incoming PhD student in Computer Science at The University of 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IQuest-Coder-V1 Technical Report](https://arxiv.org/pdf/2603.16733) \| [**Code**](https://huggingface.co/IQuestLab)
@@ -49,7 +49,7 @@ I mainly contributed to the post-training design and optimization, with a partic
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 QUITE is a training-free and feedback-aware system based on LLM agents that rewrites SQL queries into semantically equivalent forms with significantly better performance, covering a broader range of query patterns and rewrite strategies compared to rule-based methods.
 </div>
-</div>
+</div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -69,26 +69,11 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 <!-- <font color=red>Nationcal Scholarship</font> -->
 
 # 🎖 Honors and Awards
-- *2025.05*, First Prize, College Student Innovation Project.
+<!-- - *2025.05*, First Prize, College Student Innovation Project.
 - *2023.11*, First Prize, China Undergraduate Mathematical Contest in Modeling.
 - *2023.10*, First-Class Scholarship, Sichuan University (Top 1%). 
-- *2023.08*, First Prize, China Undergraduate Internet of Things Design Competition.
+- *2023.08*, First Prize, China Undergraduate Internet of Things Design Competition. -->
 
-# 📖 Educations
-<div class='school-list'>
-<div class='school-item'>
-  <div class='school-logo'><img src='images/utaustin.png' alt="UT Austin"></div>
-  <div class='school-text' markdown="1">
-  *2026.08 (incoming)*, Ph.D. in Computer Science, The University of Texas at Austin.
-  </div>
-</div>
-<div class='school-item'>
-  <div class='school-logo'><img src='images/scu.png' alt="Sichuan University"></div>
-  <div class='school-text' markdown="1">
-  *2022.09 - 2026.06*, B.S. in Computer Science, Wuyuzhang College (Honours Programme), Sichuan University.
-  </div>
-</div>
-</div>
 
 
 <!-- # 💬 Invited Talks
@@ -96,9 +81,9 @@ QUITE is a training-free and feedback-aware system based on LLM agents that rewr
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-# - *2025.09 - now*, Research Internship, IQuest AI Lab, Ubiquant, China.
+<!-- # - *2025.09 - now*, Research Internship, IQuest AI Lab, Ubiquant, China.
 - *2024.11 - 2025.07*, Research Assistant, [Purdue University](https://www.purdue.edu/), USA.
-- *2024.09 - 2025.07*, Research Assistant, [Sichuan University](https://en.scu.edu.cn/), China.
+- *2024.09 - 2025.07*, Research Assistant, [Sichuan University](https://en.scu.edu.cn/), China. -->
 
 <br>
 
