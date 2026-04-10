@@ -19,9 +19,9 @@ redirect_from:
 
 Hi! I'm Shunge Zou, a B.S. Candidate in Computer Science with Honor at Sichuan University (2023–2027). 
 Since 2025, I started my research internship, where I am fortunate to be 
-advised by [Prof. Xiao Luo](https://luoxiao12.github.io/), 
-[Prof. Wei Ju](https://juweipku.github.io/), 
-and [Prof. Ziyue Qiao](https://qiaoziyue.com/).
+advised by [Prof. Xiao Luo](https://luoxiao12.github.io/) and 
+[Prof. Ziyue Qiao](https://qiaoziyue.com/). I also collaborate closely with 
+[Prof. Wei Ju](https://juweipku.github.io/).
 My research interests span safety evaluation for large language models and 
 test-time adaptation for vision-language models. Recently, I have been 
 diving into text prototype repair for VLM zero-shot classification.
@@ -47,57 +47,9 @@ DANCE is a test-time adaptation framework for VLMs that jointly redesigns cache 
 </div>
 </div>
 
-<!-- - [DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models](https://openreview.net/forum?id=TT4hCRXY6y)  
-  **Shunge Zou**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo  
-  *ACL 2026 Findings*  
-  DANCE is a training-free test-time adaptation framework for VLMs that jointly redesigns cache maintenance and retrieval under distribution shift. It introduces diversity-attended dynamic caching to maintain representative class-wise prototypes, and asymmetric quantization as a unified retrieval primitive to stabilize visual-space similarity under streaming shift.  -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/iquest_result.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[IQuest-Coder-V1 Technical Report](https://arxiv.org/pdf/2603.16733) \| [**Code**](https://huggingface.co/IQuestLab)
-
-Jian Yang, Wei Zhang, Shawn Guo, Zhengmao Ye, Lin Jing, Shark Liu, Yizhi Li, Jiajun Wu, Cening Liu, X. Ma, **Yuyang Song**, et al.
-
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-We introduce IQuest-Coder-V1, a high-performance code LLM that achieves leading results on multiple public benchmarks, surpassing several competitive closed-source models.
-I mainly contributed to the post-training design and optimization, with a particular emphasis on Text-to-SQL reasoning and terminal-level execution tasks, substantially improving the model’s practical reasoning and action fidelity, surpassing the cutting-edge LLMs.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv'25</div><img src='images/quite.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675) \| [**Code**](https://github.com/Yuyang-Song/QUITE)
-
-**Yuyang Song**, Hanxu Yan, Jiale Lao, Yibo Wang, Yufei Li, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
-
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-QUITE is a training-free and feedback-aware system based on LLM agents that rewrites SQL queries into semantically equivalent forms with significantly better performance, covering a broader range of query patterns and rewrite strategies compared to rule-based methods.
-</div>
-</div> -->
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-<!-- # 🔬 Projects
-### Query Rewrite via Large Language Model for DBMS | 2024.07 - 2024.08
-- Leverage the analytical power of Large Language Model to propose the relational rules of SQL optimization.
-- Repeat a LLM-based optimization pipline to reduce the hallucination issues in Large Language Model.
-- Construct a rewrite rule knowledge pool to further gain the learn ability.
-- [Query Rewrite via Large Language Model for DBMS](https://github.com/Orderheart/GenRewrite)
-
-### Construction of targeted anti-caries polypeptides based on machine learning | 2023.11 - 2024.03
-- Characterization of anti-caries antimicrobial peptide protein sequence and construction of data set.
-- Feature extraction and feature scoring index system were constructed by machine learning algorithm.
-- The optimal antimicrobial peptides were found by regression analysis of MIC value.
-- [Construction of targeted anti-caries polypeptides based on machine learning](https://github.com/Orderheart/Machine_Learning_AMP_Analysis) -->
-
-<!-- <font color=red>Nationcal Scholarship</font> -->
-
 # 💻 Internships
 - *2025.05 - present*, Research Internship, [University of Wisconsin - Madison](https://www.wisc.edu/), USA.
 - *2025.09 - present*, Research Internship, [The Greater Bay Area University](The Greater Bay Area University), China.
-- *2025.03 - present*, Research Internship, [Sichuan University](https://en.scu.edu.cn/), China.
 
 
 # 📖 Education
