@@ -19,9 +19,9 @@ redirect_from:
 
 Hi! I'm Shunge Zou, a B.S. Candidate in Computer Science with Honor at Sichuan University (2023–2027). 
 Since 2025, I started my research internship, where I am fortunate to be 
-advised by [Prof. Xiao Luo](https://luoxiao12.github.io/) and 
-[Prof. Ziyue Qiao](https://qiaoziyue.com/). I also collaborate closely with 
-[Prof. Wei Ju](https://juweipku.github.io/).
+advised by [Prof. Xiao Luo](https://luoxiao12.github.io/) (UW-Madison) and 
+[Prof. Ziyue Qiao](https://qiaoziyue.com/) (GBU). I also collaborate closely with 
+[Prof. Wei Ju](https://juweipku.github.io/) (SCU).
 My research interests span safety evaluation for large language models and 
 test-time adaptation for vision-language models. Recently, I have been 
 diving into text prototype repair for VLM zero-shot classification.
