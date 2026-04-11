@@ -67,7 +67,7 @@ DANCE is a test-time adaptation framework for VLMs that jointly redesigns cache 
 - *2024.12*, National Scholarship, Ministry of Education, China.
 - *2024.10*, First-Class Scholarship, Sichuan University (Top 1%).
 - *2024*, First Prize, China, Undergraduate Internet of Things Design Competition.
-- *2024 & 2025*, Member, National-level College Student Innovation and Entrepreneurship Project (x2).
+- *2024 & 2025*, National-level College Student Innovation and Entrepreneurship Project (x2).
 
 
 <!-- # 💬 Invited Talks
