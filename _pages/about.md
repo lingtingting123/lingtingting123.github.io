@@ -22,9 +22,8 @@ Since 2025, I started my research internship, where I am fortunate to be
 advised by [Prof. Xiao Luo](https://luoxiao12.github.io/) (UW-Madison) and 
 [Prof. Ziyue Qiao](https://qiaoziyue.com/) (GBU). I also collaborate closely with 
 [Prof. Wei Ju](https://juweipku.github.io/) (SCU).
-My research interests span safety evaluation for large language models and 
-test-time adaptation for vision-language models. Recently, I have been 
-diving into text prototype repair for VLM zero-shot classification.
+My research interests lie in reliable and adaptive foundation models. My previous work has studied adaptive vision-language models and reliable language models, and I am recently exploring agentic reinforcement learning.
+
 
 <!-- Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, advised by Prof. [Mingjie Tang](https://merlintang.github.io/). Previously, he was a research intern at [Purdue University](https://www.purdue.edu/) under the supervision of Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). His research interest lies in **Efficient LLM Reasoning** and **System Optimization**. -->
 
