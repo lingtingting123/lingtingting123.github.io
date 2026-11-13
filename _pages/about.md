@@ -25,9 +25,6 @@ advised by [Prof. Xiao Luo](https://luoxiao12.github.io/) (UW-Madison) and
 My research interests lie in reliable and adaptive foundation models. My previous work has studied adaptive vision-language models and reliable language models, and I am recently exploring agentic reinforcement learning.
 
 
-<!-- Yuyang Song is an incoming PhD student in Computer Science at The University of Texas at Austin. He will receive his B.S. in Computer Science from the Wu Yuzhang Honors College at Sichuan University in June 2026, advised by Prof. [Mingjie Tang](https://merlintang.github.io/). Previously, he was a research intern at [Purdue University](https://www.purdue.edu/) under the supervision of Prof. [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). His research interest lies in **Efficient LLM Reasoning** and **System Optimization**. -->
-
-
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
