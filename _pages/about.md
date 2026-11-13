@@ -38,7 +38,7 @@ My research interests lie in reliable and adaptive foundation models. My previou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ACL 2026 Findings </div><img src='images/dance.jpg' alt="paper preview" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models](https://openreview.net/forum?id=TT4hCRXY6y)
+[DANCE: Diversity-attended Dynamic Caching with Asymmetric Quantization for Test-time Adaptation of Vision-language Models](https://aclanthology.org/2026.findings-acl.1860/)
 
 **Shunge Zou**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
 
