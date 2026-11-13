@@ -48,7 +48,6 @@ DANCE is a test-time adaptation framework for VLMs that jointly redesigns cache 
 
 # 💻 Internships
 - *2025.05 - present*, Research Internship, [University of Wisconsin - Madison](https://www.wisc.edu/), USA.
-- *2025.09 - present*, Research Internship, [The Greater Bay Area University](The Greater Bay Area University), China.
 
 
 # 📖 Education
