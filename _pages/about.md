@@ -57,6 +57,8 @@ DANCE is a test-time adaptation framework for VLMs that jointly redesigns cache 
 </div>
 </div>
 
+**English proficiency:** TOEFL **5.5/6**.
+
 # 🎖 Honors and Awards
 - *2025.12*, National Scholarship, Ministry of Education, China.
 - *2024.12*, National Scholarship, Ministry of Education, China.
